@@ -8,7 +8,7 @@
 To clone this repository, run the following command in your terminal:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/simrangajsinghani/nextjs14
 ```
 
 ### Step 2: Navigate to the project folder and install the necessary npm packages:
